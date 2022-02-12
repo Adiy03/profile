@@ -35,8 +35,13 @@
 
 
 @media screen and (max-width: 480px) {
-    .p {
-      width: 40%;
+    .p{
+      width: 60%;
       height: 20vh;
     }
+
+    /* .p-img{
+        width: 600px;
+        height: 400px;
+    } */
   }
